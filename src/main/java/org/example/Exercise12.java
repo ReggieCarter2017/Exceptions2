@@ -2,12 +2,13 @@ import java.util.Scanner;
 
 public class Exercise12 {
     public static void main(String[] args) {
-
-
+        
+        Exceptions ex = new Exceptions();
+        ex.firstException(); // Первое задание
 
 
         CodeReview cr = new CodeReview();
-        cr.firstCode();
+        cr.firstCode(); // Второе задание
     }
 }
 
